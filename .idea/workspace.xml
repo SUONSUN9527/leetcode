@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77c06334-f4b2-4311-9b86-f6dc06dec212" name="更改" comment="" />
+    <list default="true" id="77c06334-f4b2-4311-9b86-f6dc06dec212" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/矩阵/lc240.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/矩阵/lc48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/矩阵/lc74.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/矩阵/lc73.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/矩阵/lc73.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +18,6 @@
   </component>
   <component name="EmbeddingIndexingInfo">
     <option name="cachedIndexableFilesCount" value="18" />
-    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -21,6 +26,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SUONSUN9527&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:SUONSUN9527/leetcode.git&quot;,
+    &quot;accountId&quot;: &quot;3c5e9397-dfeb-45d9-b004-91d44b74616f&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -30,6 +50,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="36vYDYvFwrKaJOzxeg79cJCralU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,9 +62,14 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/ying/Desktop/leetcode",
+    "last_opened_file_path": "C:/Users/user/Desktop/leetcode",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,8 +77,9 @@
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.language.and.region",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true",
     "应用程序.lc001.executor": "Run",
     "应用程序.lc11.executor": "Run",
@@ -59,24 +88,28 @@
     "应用程序.lc189.executor": "Run",
     "应用程序.lc238.executor": "Run",
     "应用程序.lc239.executor": "Run",
+    "应用程序.lc240.executor": "Run",
     "应用程序.lc283.executor": "Run",
     "应用程序.lc3.executor": "Run",
     "应用程序.lc41.executor": "Run",
     "应用程序.lc42.executor": "Run",
     "应用程序.lc438.executor": "Run",
+    "应用程序.lc48.executor": "Run",
     "应用程序.lc49.executor": "Run",
     "应用程序.lc53.executor": "Run",
     "应用程序.lc56.executor": "Run",
-    "应用程序.lc560.executor": "Run"
+    "应用程序.lc560.executor": "Run",
+    "应用程序.lc73.executor": "Run",
+    "应用程序.lc74.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.lc41">
-    <configuration name="lc189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="普通数组.lc189" />
+  <component name="RunManager" selected="应用程序.lc240">
+    <configuration name="lc11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="双指针.lc11" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="普通数组.*" />
+          <option name="PATTERN" value="双指针.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="普通数组.lc238" />
+    <configuration name="lc240" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="矩阵.lc240" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="普通数组.*" />
+          <option name="PATTERN" value="矩阵.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="普通数组.lc41" />
+    <configuration name="lc48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="矩阵.lc48" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="普通数组.*" />
+          <option name="PATTERN" value="矩阵.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="普通数组.lc53" />
+    <configuration name="lc73" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="矩阵.lc73" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="普通数组.*" />
+          <option name="PATTERN" value="矩阵.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="普通数组.lc56" />
+    <configuration name="lc74" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="矩阵.lc74" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="普通数组.*" />
+          <option name="PATTERN" value="矩阵.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,19 +171,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.lc41" />
-        <item itemvalue="应用程序.lc238" />
-        <item itemvalue="应用程序.lc189" />
-        <item itemvalue="应用程序.lc56" />
-        <item itemvalue="应用程序.lc53" />
+        <item itemvalue="应用程序.lc240" />
+        <item itemvalue="应用程序.lc48" />
+        <item itemvalue="应用程序.lc74" />
+        <item itemvalue="应用程序.lc73" />
+        <item itemvalue="应用程序.lc11" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
       </set>
     </attachedChunks>
   </component>
@@ -166,6 +199,8 @@
       <workItem from="1768280952298" duration="5193000" />
       <workItem from="1768359157779" duration="597000" />
       <workItem from="1768361789551" duration="52850000" />
+      <workItem from="1771394786924" duration="47000" />
+      <workItem from="1771413143060" duration="5934000" />
     </task>
     <servers />
   </component>
