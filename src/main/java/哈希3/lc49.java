@@ -1,4 +1,4 @@
-package 哈希;
+package 哈希3;
 
 import java.util.*;
 

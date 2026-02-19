@@ -4,12 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77c06334-f4b2-4311-9b86-f6dc06dec212" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/矩阵/lc240.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/矩阵/lc48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/矩阵/lc74.java" afterDir="false" />
+    <list default="true" id="77c06334-f4b2-4311-9b86-f6dc06dec212" name="更改" comment="4道题">
+      <change afterPath="$PROJECT_DIR$/src/main/java/链表/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/链表/lc141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/链表/lc142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/链表/lc160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/链表/lc206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/链表/lc21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/链表/lc234.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/矩阵/lc73.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/矩阵/lc73.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/双指针/lc11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/双指针4/lc11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/双指针/lc15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/双指针4/lc15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/双指针/lc283.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/双指针4/lc283.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/双指针/lc42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/双指针4/lc42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/哈希/lc001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/哈希3/lc001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/哈希/lc128.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/哈希3/lc128.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/哈希/lc49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/哈希3/lc49.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/子串/lc239.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/子串3/lc239.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/子串/lc560.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/子串3/lc560.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/子串/lc76.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/子串3/lc76.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/普通数组/lc189.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/普通数组5/lc189.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/普通数组/lc238.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/普通数组5/lc238.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/普通数组/lc41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/普通数组5/lc41.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/普通数组/lc53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/普通数组5/lc53.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/普通数组/lc56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/普通数组5/lc56.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/滑动窗口/lc3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/滑动窗口2/lc3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/滑动窗口/lc438.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/滑动窗口2/lc438.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/矩阵/lc240.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/矩阵4/lc240.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/矩阵/lc48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/矩阵4/lc48.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/矩阵/lc73.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/矩阵4/lc73.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/矩阵/lc74.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/矩阵4/lc74.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,8 +108,14 @@
     "应用程序.lc001.executor": "Run",
     "应用程序.lc11.executor": "Run",
     "应用程序.lc128.executor": "Run",
+    "应用程序.lc141.executor": "Run",
+    "应用程序.lc142.executor": "Run",
     "应用程序.lc15.executor": "Run",
+    "应用程序.lc160.executor": "Run",
     "应用程序.lc189.executor": "Run",
+    "应用程序.lc206.executor": "Run",
+    "应用程序.lc21.executor": "Run",
+    "应用程序.lc234.executor": "Run",
     "应用程序.lc238.executor": "Run",
     "应用程序.lc239.executor": "Run",
     "应用程序.lc240.executor": "Run",
@@ -103,13 +133,13 @@
     "应用程序.lc74.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.lc240">
-    <configuration name="lc11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="双指针.lc11" />
+  <component name="RunManager" selected="应用程序.lc21">
+    <configuration name="lc141" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="链表.lc141" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="双指针.*" />
+          <option name="PATTERN" value="链表.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc240" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="矩阵.lc240" />
+    <configuration name="lc142" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="链表.lc142" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="矩阵.*" />
+          <option name="PATTERN" value="链表.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="矩阵.lc48" />
+    <configuration name="lc206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="链表.lc206" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="矩阵.*" />
+          <option name="PATTERN" value="链表.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc73" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="矩阵.lc73" />
+    <configuration name="lc21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="链表.lc21" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="矩阵.*" />
+          <option name="PATTERN" value="链表.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc74" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="矩阵.lc74" />
+    <configuration name="lc234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="链表.lc234" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="矩阵.*" />
+          <option name="PATTERN" value="链表.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.lc240" />
-        <item itemvalue="应用程序.lc48" />
-        <item itemvalue="应用程序.lc74" />
-        <item itemvalue="应用程序.lc73" />
-        <item itemvalue="应用程序.lc11" />
+        <item itemvalue="应用程序.lc21" />
+        <item itemvalue="应用程序.lc142" />
+        <item itemvalue="应用程序.lc141" />
+        <item itemvalue="应用程序.lc234" />
+        <item itemvalue="应用程序.lc206" />
       </list>
     </recent_temporary>
   </component>
@@ -200,11 +230,37 @@
       <workItem from="1768359157779" duration="597000" />
       <workItem from="1768361789551" duration="52850000" />
       <workItem from="1771394786924" duration="47000" />
-      <workItem from="1771413143060" duration="5934000" />
+      <workItem from="1771413143060" duration="6194000" />
+      <workItem from="1771423578567" duration="607000" />
+      <workItem from="1771476750757" duration="9926000" />
     </task>
+    <task id="LOCAL-00001" summary="4道题">
+      <option name="closed" value="true" />
+      <created>1771422216094</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1771422216094</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="4道题" />
+    <option name="LAST_COMMIT_MESSAGE" value="4道题" />
   </component>
 </project>
