@@ -1,4 +1,4 @@
-package 链表;
+package 链表14;
 
 
 public class lc142 {

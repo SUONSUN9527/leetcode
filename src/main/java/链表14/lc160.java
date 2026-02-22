@@ -1,6 +1,4 @@
-package 链表;
-
-import java.util.List;
+package 链表14;
 
 public class lc160 {
 
