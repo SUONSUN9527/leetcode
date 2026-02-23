@@ -4,33 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77c06334-f4b2-4311-9b86-f6dc06dec212" name="更改" comment="6道链表">
-      <change afterPath="$PROJECT_DIR$/src/main/java/二叉树/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/二叉树/lc101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/二叉树/lc102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/二叉树/lc104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/二叉树/lc108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/二叉树/lc226.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/二叉树/lc543.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/二叉树/lc94.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/链表14/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/链表14/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/链表14/lc138.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/链表14/lc146.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/链表14/lc148.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/链表14/lc19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/链表14/lc2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/链表14/lc23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/链表14/lc24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/链表14/lc25.java" afterDir="false" />
+    <list default="true" id="77c06334-f4b2-4311-9b86-f6dc06dec212" name="更改" comment="二叉树">
+      <change afterPath="$PROJECT_DIR$/src/main/java/二叉树15/lc105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/二叉树15/lc114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/二叉树15/lc124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/二叉树15/lc199.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/二叉树15/lc230.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/二叉树15/lc236.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/二叉树15/lc437.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/二叉树15/lc98.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/链表/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/链表/lc141.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/链表14/lc141.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/链表/lc142.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/链表14/lc142.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/链表/lc160.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/链表14/lc160.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/链表/lc206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/链表14/lc206.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/链表/lc21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/链表14/lc21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/链表/lc234.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/链表14/lc234.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/二叉树/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二叉树15/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/二叉树/lc101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二叉树15/lc101.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/二叉树/lc102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二叉树15/lc102.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/二叉树/lc104.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二叉树15/lc104.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/二叉树/lc108.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二叉树15/lc108.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/二叉树/lc226.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二叉树15/lc226.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/二叉树/lc543.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二叉树15/lc543.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/二叉树/lc94.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二叉树15/lc94.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/链表14/lc146.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/链表14/lc146.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,63 +70,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/Desktop/leetcode",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "项目",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.lc001.executor": "Run",
-    "应用程序.lc11.executor": "Run",
-    "应用程序.lc128.executor": "Run",
-    "应用程序.lc141.executor": "Run",
-    "应用程序.lc142.executor": "Run",
-    "应用程序.lc15.executor": "Run",
-    "应用程序.lc160.executor": "Run",
-    "应用程序.lc189.executor": "Run",
-    "应用程序.lc19.executor": "Run",
-    "应用程序.lc2.executor": "Run",
-    "应用程序.lc206.executor": "Run",
-    "应用程序.lc21.executor": "Run",
-    "应用程序.lc234.executor": "Run",
-    "应用程序.lc238.executor": "Run",
-    "应用程序.lc239.executor": "Run",
-    "应用程序.lc24.executor": "Run",
-    "应用程序.lc240.executor": "Run",
-    "应用程序.lc25.executor": "Run",
-    "应用程序.lc283.executor": "Run",
-    "应用程序.lc3.executor": "Run",
-    "应用程序.lc41.executor": "Run",
-    "应用程序.lc42.executor": "Run",
-    "应用程序.lc438.executor": "Run",
-    "应用程序.lc48.executor": "Run",
-    "应用程序.lc49.executor": "Run",
-    "应用程序.lc53.executor": "Run",
-    "应用程序.lc56.executor": "Run",
-    "应用程序.lc560.executor": "Run",
-    "应用程序.lc73.executor": "Run",
-    "应用程序.lc74.executor": "Run",
-    "应用程序.lc94.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/leetcode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.lc001.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc11.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc128.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc141.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc142.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc15.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc160.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc189.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc19.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc206.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc21.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc234.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc238.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc239.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc24.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc240.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc25.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc283.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc3.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc41.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc42.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc438.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc48.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc49.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc53.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc56.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc560.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc73.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc74.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lc94.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="应用程序.lc94">
     <configuration name="lc19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="链表14.lc19" />
@@ -189,11 +181,11 @@
       </method>
     </configuration>
     <configuration name="lc94" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="二叉树.lc94" />
+      <option name="MAIN_CLASS_NAME" value="二叉树15.lc94" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="二叉树.*" />
+          <option name="PATTERN" value="二叉树15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,7 +228,9 @@
       <workItem from="1771423578567" duration="607000" />
       <workItem from="1771476750757" duration="11114000" />
       <workItem from="1771641177133" duration="14287000" />
-      <workItem from="1771732732983" duration="8573000" />
+      <workItem from="1771732732983" duration="10579000" />
+      <workItem from="1771812636026" duration="6031000" />
+      <workItem from="1771823154879" duration="6659000" />
     </task>
     <task id="LOCAL-00001" summary="4道题">
       <option name="closed" value="true" />
@@ -254,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771501090376</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="二叉树">
+      <option name="closed" value="true" />
+      <created>1771747743294</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1771747743295</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,6 +276,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="4道题" />
     <MESSAGE value="6道链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="6道链表" />
+    <MESSAGE value="二叉树" />
+    <option name="LAST_COMMIT_MESSAGE" value="二叉树" />
   </component>
 </project>
